@@ -40,19 +40,19 @@ export const Skills = () => {
                         <p>LoremThe href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, b</p>
                         <Carousel responsive={responsive} infinite={true} className="skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image"/>
+                                <img src={meter1} alt=""/>
                                 <h5>Web Developemnt</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image"/>
+                                <img src={meter2} alt=""/>
                                 <h5>Brand Identity</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image"/>
+                                <img src={meter3} alt=""/>
                                 <h5>Web Design</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image"/>
+                                <img src={meter1} alt=""/>
                                 <h5>Mobile Developement</h5>
                             </div>
                         </Carousel>
